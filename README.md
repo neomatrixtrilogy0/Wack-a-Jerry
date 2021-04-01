@@ -1,0 +1,1 @@
+This is just like a Whack a mole game but instead of a mole, we'll be wacking Jerry from Tom & Jerry.
